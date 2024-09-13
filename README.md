@@ -1,3 +1,3 @@
 # Story
 hello test
-this is a test cod
+this is a test code
